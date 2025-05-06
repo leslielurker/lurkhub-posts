@@ -9,6 +9,11 @@
       "1746197172622",
       "hello, world",
       "false"
+    ],
+    [
+      "1746526466943",
+      "# Caching on LurkHub\n\nOne of the reasons I'm making my app [LurkHub](https://lurkhub.com) is to help me learn more about web development. One of the issues I encountered early on was caching. I needed to cache responses from the GitHub API for performance and to avoid API limits.",
+      "true"
     ]
   ]
 }
